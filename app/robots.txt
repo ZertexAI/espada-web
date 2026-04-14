@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laespada-aranjuez.com/sitemap.xml
